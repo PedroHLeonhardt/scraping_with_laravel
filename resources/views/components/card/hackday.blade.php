@@ -1,4 +1,3 @@
-
 <div class="w-full max-w-sm group overflow-hidden rounded-3xl border-[3px] border-slate-950 bg-blue-500 shadow-[5px_6px_0_#020617] transition-transform duration-200 hover:-translate-y-1">
     <div class="flex items-center justify-between gap-3 border-b-[3px] border-slate-950 px-5 py-4">
         <h2 class="text-xl font-black tracking-tight text-slate-950">
@@ -25,3 +24,4 @@
         </a>
     </div>
 </div>
+
